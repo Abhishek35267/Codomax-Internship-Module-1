@@ -8,9 +8,10 @@ Python Basics: Core syntax, data types, control flow, variable, data structures,
 AI & Machine Learning Basics: Foundational concepts, notes, and theoretical principles.
 
 📁 Project Structure
-Codomax_Module_1/
+
+Codomax_Module_1
 │
-├── Python_Basics/
+├── Python_Basics
 │   ├── variables.py
 │   ├── conditions.py
 │   ├── loops.py
@@ -18,7 +19,7 @@ Codomax_Module_1/
 │   ├── functions.py
 │   └── practice_programs.py
 │
-├── AI_ML_Basics/
+├── AI_ML_Basics
 │   └── ai_ml_notes.md
 │
 └── README.md
