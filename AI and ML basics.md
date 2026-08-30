@@ -3,24 +3,7 @@
 ## 🚀 Introduction
 This repository contains my work completed during Module 1 of the Codomax Internship. The module focuses on the fundamentals of Python programming, Artificial Intelligence, and Machine Learning.
 
-## 📁 Project Structure
-```text
-Codomax_Module_1
-│
-├── Python_Basics
-│   ├── variables.py
-│   ├── conditions.py
-│   ├── loops.py
-│   ├── lists.py
-│   ├── functions.py
-│   └── practice_programs.py
-│
-└── AI_ML_Basics
-    ├── ai_ml_notes.md
-    └── README.md
-
-
-## 📁 artificial intelligence (AI)
+# what is artificial intelligence (AI)
 
 Artificial Intelligence (AI) is a transformative technology that enables machines to perform tasks that typically require human intelligence, such as learning from data, recognizing patterns, and making decisions. It encompasses various subfields, including Machine Learning, Generative AI, Natural Language Processing, and Expert Systems. AI relies on large datasets for training and decision-making, and it can be categorized based on capabilities and functionalities. While AI offers numerous advantages and applications across different sectors, it also presents challenges related to data privacy, bias, and ethical considerations.
 
